@@ -7,7 +7,7 @@ Dataset: https://github.com/owid/covid-19-data
 
 Software: Stata 16.1
 
-Wetern European countries
+European countries
 
 Graphical results of country-level analysis
 
