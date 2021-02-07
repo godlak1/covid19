@@ -1,7 +1,7 @@
 # covid19
 covid19 things
 
-Stata analysis & graphics files repository for 
+Stata analysis & graphics files repository organized by topics-branches for: 
 
 https://t.me/chrisgodlak
 
