@@ -1,6 +1,8 @@
 # covid19
 covid19 things
 
+Stringency index vs new deaths
+
 Dataset: https://github.com/owid/covid-19-data
 
 Software: Stata 16.1
