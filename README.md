@@ -1,4 +1,10 @@
 # covid19
 covid19 things
 
-Stata analysis & graphics
+Stata analysis & graphics files repository for 
+
+https://t.me/chrisgodlak
+
+https://godlak.substack.com/
+
+https://www.reddit.com/r/Covid19_things/
