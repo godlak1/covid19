@@ -1,7 +1,7 @@
 # covid19
 covid19 things
 
-Stata graphics files for stringency index vs new deaths
+Stata graphics files for stringency index (14 days lag) vs new deaths (log daily variations)
 
 Dataset: https://github.com/owid/covid-19-data
 
