@@ -20,6 +20,7 @@ Finally, you can follow me on:
 
 - Twitter : [Link](https://twitter.com/ChrisGodlak)
 
+<--
 ```markdown
 Syntax highlighted code block
 
@@ -37,4 +38,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+-->
