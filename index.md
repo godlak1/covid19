@@ -37,6 +37,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://github.com/chrisgodlak/covid19/blob/main/statacat.jpeg) and ![Image](https://github.com/chrisgodlak/covid19/blob/main/statacat.jpeg)
-![Screenshot](statacat.jpeg)
+![Screenshot](statacat.png)
 ```
 -->
