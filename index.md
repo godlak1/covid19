@@ -11,7 +11,7 @@ My biweekly France * covid-19 bulletin can be found here (en français):
 
 [France * bulletin covid-19](https://chrisgodlak.medium.com/)
 
-Testing: [bulletin FRA](https://github.com/chrisgodlak/covid19/tree/main/France%20bulletin%20covid-19/frac19bul-b.html)
+Testing: [bulletin FRA](https://github.com/chrisgodlak/covid19/blob/main/France%20bulletin%20covid-19/frac19bul-b.html)
 
 I also have a reddit sub.:
 
