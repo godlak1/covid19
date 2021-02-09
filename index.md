@@ -2,23 +2,23 @@
 ## by chris.godlak
 ### a STATA monkey with P.ermanent H.ead D.amage
 
-My main outputs can be found here:
+My **main outputs** graphics/stata analysis can be found here:
 
-[Link](https://godlak.substack.com/) 
+[covid-19 things](https://godlak.substack.com/) 
 
-My graphics/analysis focused on France can be found here:
+My graphics/stata analysis focused on France can be found here:
 
-[Link](https://chrisgodlak.medium.com/)
+[France covid-19 things](https://chrisgodlak.medium.com/)
 
 I also have a reddit sub.:
 
-[Link](https://www.reddit.com/r/Covid19_things/)
+[r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-Finally, you can follow me on:
+Finally, you can _follow me_ on:
 
-- Telegram : [Link](https://t.me/chrisgodlak)
+- [Telegram](https://t.me/chrisgodlak)
 
-- Twitter : [Link](https://twitter.com/ChrisGodlak)
+- [Twitter](https://twitter.com/ChrisGodlak)
 
 <--
 ```markdown
@@ -36,6 +36,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/chrisgodlak/covid19/blob/main/statacat.jpeg)
 ```
 -->
