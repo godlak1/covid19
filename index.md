@@ -20,3 +20,5 @@ Finally, you can _follow me_ on:
 - [Telegram](https://t.me/chrisgodlak)
 
 - [Twitter](https://twitter.com/ChrisGodlak)
+
+![Image](https://raw.githubusercontent.com/chrisgodlak/covid19/main/statacat.png)
