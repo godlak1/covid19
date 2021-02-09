@@ -15,7 +15,7 @@ I also have a reddit sub.:
 
 [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-Finally, you can _follow me_ on:
+Finally, you can _interact with me / follow me_ on:
 
 - [Telegram](https://t.me/chrisgodlak)
 
