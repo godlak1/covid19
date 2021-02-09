@@ -21,4 +21,4 @@ Finally, you can _interact with me / follow me_ on:
 
 - [Twitter](https://twitter.com/ChrisGodlak)
 
-![Image](https://raw.githubusercontent.com/chrisgodlak/covid19/main/statacat.png)
+![Image](https://raw.githubusercontent.com/chrisgodlak/covid19/main/images/statacat.png)
