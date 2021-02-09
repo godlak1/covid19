@@ -7,9 +7,9 @@ My **main outputs** graphics/stata analysis can be found here:
 
 [covid-19 things](https://godlak.substack.com/) 
 
-My graphics/stata analysis focused on France can be found here:
+My biweekly France * covid-19 bulletin can be found here (en français):
 
-[France covid-19 things](https://chrisgodlak.medium.com/)
+[France * bulletin covid-19](https://chrisgodlak.medium.com/)
 
 I also have a reddit sub.:
 
