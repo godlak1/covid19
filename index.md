@@ -1,3 +1,4 @@
+
 # Welcome to Covid19 things 
 ## by chris.godlak
 ### a STATA monkey with P.ermanent H.ead D.amage
@@ -19,24 +20,3 @@ Finally, you can _follow me_ on:
 - [Telegram](https://t.me/chrisgodlak)
 
 - [Twitter](https://twitter.com/ChrisGodlak)
-
-<--
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](https://github.com/chrisgodlak/covid19/blob/main/statacat.png) and ![Image](https://github.com/chrisgodlak/covid19/blob/main/statacat.png)
-![Screenshot](statacat.png)
-```
--->
