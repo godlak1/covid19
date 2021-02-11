@@ -3,6 +3,8 @@
 ## by chris.godlak
 ### a STATA monkey with P.ermanent H.ead D.amage
 
+My **[githug blog](https://chrisgodlak.github.io/) serves as a backup for all my posts from the links below**
+
 My **main outputs** graphics/stata analysis can be found here:
 
 [covid-19 things](https://godlak.substack.com/) 
