@@ -3,15 +3,15 @@ covid19 things
 
 Stata graphics files for google mobility report + stringency index + relationships with some covid-19 metrics
 
-ee: East Europe
+_ee: East Europe
 
-we: West Europe
+_we: West Europe
 
-bhs: binscatters with histograms
+_bhs: binscatters with histograms
 
-bs: binscatters
+_bs: binscatters
 
-s: scatters
+_s: scatters
 
 Datasets: 
 
