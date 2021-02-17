@@ -13,6 +13,10 @@ _bs: binscatters_
 
 _s: scatters_
 
+_ma7: 7 days moving average_
+
+_L7: 7 days lag_
+
 Datasets: 
 
 https://www.google.com/covid19/mobility/
