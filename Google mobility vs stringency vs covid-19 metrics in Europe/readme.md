@@ -1,7 +1,7 @@
 # covid19
 covid19 things
 
-Stata graphics files for google mobility report + stringency index + relationships with some covid-19 metrics
+Stata graphics files for google mobility report + stringency index & its components + relationships with some covid-19 metrics
 
 Datasets: 
 
