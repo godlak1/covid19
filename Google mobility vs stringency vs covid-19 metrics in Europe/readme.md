@@ -5,7 +5,7 @@ Stata graphics files for google mobility report + stringency index + relationshi
 
 Datasets: 
 
-https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+https://www.google.com/covid19/mobility/
 
 https://github.com/owid/covid-19-data
 
