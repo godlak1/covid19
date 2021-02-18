@@ -3,7 +3,9 @@ covid19 things
 
 Stata graphics files for stringency index (30 days lag) vs new cases (daily variations)
 
-rw_ : rolling window (30 days) regression results
+_ncpm: new cases per million_
+
+_rw_ : rolling window (30 days) regression results_
 
 Dataset: https://github.com/owid/covid-19-data
 

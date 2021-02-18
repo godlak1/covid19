@@ -2,7 +2,9 @@ covid19 things
 
 Stata graphics files for stringency index (30 days lag) vs new tests (daily variations)
 
-rw_ : rolling window (30 days) regression results
+_ntpm: new tests / 1000_
+
+_rw_ : rolling window (30 days) regression results
 
 Dataset: https://github.com/owid/covid-19-data
 

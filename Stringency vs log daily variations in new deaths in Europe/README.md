@@ -11,4 +11,4 @@ Software: Stata 16.1
 
 Analysis on https://godlak.substack.com/
 
-[EDIT: my bad, forgot to update subtitle for rolling windo regressions graphics; it is of course not the average (avg.) stringency index but the stringency index over time by country… apologies for messing up]
+**[EDIT: my bad, forgot to update subtitle for rolling windo regressions graphics; it is of course not the average (avg.) stringency index but the stringency index over time by country… apologies for messing up]**

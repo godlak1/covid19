@@ -1,15 +1,27 @@
 # covid19
 covid19 things
 
-Stata graphics files for google mobility report + stringency index & its components + relationships with some covid-19 metrics
+Stata graphics files for google mobility report + stringency index + relationships with some covid-19 metrics
+
+_ee: East Europe_
+
+_we: West Europe_
+
+_bhs: binscatters with histograms_
+
+_bs: binscatters_
+
+_s: scatters_
+
+_ma7: 7 days moving average_
+
+_L7: 7 days lag_
 
 Datasets: 
 
-https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
+https://www.google.com/covid19/mobility/
 
 https://github.com/owid/covid-19-data
-
-https://github.com/OxCGRT/covid-policy-tracker 
 
 Software: Stata 16.1
 
