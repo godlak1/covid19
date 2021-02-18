@@ -138,7 +138,6 @@ ee_s_ma7retail_recreation.png
 ee_s_ma7transit_stations.png
 ee_s_ma7workplaces.png
 filenames.txt
-gogolmobil.md
 readme.md
 we_bhs_ma7new_cases_per_million_L7ma7avgmob.png
 we_bhs_ma7new_cases_per_million_L7ma7avgmob_noparks.png
