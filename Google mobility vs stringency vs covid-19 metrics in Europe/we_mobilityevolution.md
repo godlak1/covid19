@@ -1,4 +1,4 @@
-### Evolution of mobility by places over time and country (East vs West Europe)
+# Evolution of mobility by places over time and country (East vs West Europe)
 
 ## Western Europe countries
 ---
