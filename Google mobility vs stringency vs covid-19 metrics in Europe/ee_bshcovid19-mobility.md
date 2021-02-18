@@ -1,6 +1,6 @@
-# Mobility vs covid-19 metrics (East vs West Europe)
+# Covid-19 vs Mobility (East vs West Europe)
 
-# Eastern Europe countries
+## Eastern Europe countries
 ---
 ![graph](ee_bhs_ma7new_tests_L7ma7avgmob.png) ![graph](ee_bhs_ma7new_tests_L7ma7avgmob_noparks.png)
 ![graph](ee_bhs_ma7new_tests_L7ma7grocery_pharmacy.png)

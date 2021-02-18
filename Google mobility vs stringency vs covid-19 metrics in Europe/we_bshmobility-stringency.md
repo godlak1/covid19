@@ -1,6 +1,6 @@
-# Mobility vs stringency (East vs West Europe)
+# Mobility vs Stringency (East vs West Europe)
 
-# Western Europe countries
+## Western Europe countries
 ---
 ![graph1](we_bsh_ma7grocery_pharmacy.png) 
 ![graph2](we_bsh_ma7workplaces.png)

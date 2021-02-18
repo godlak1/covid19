@@ -1,6 +1,6 @@
-# Mobility vs stringency (East vs West Europe)
+# Covid-19 vs Mobility (East vs West Europe)
 
-# Eastern Europe countries
+## Eastern Europe countries
 ---
 ![graph](ee_bs_ma7new_tests_per_thousand_L7ma7avgmob.png)
 ![graph](ee_bs_ma7new_tests_per_thousand_L7ma7avgmob_noparks.png)

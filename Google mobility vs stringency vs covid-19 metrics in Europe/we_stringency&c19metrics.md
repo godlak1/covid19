@@ -1,6 +1,6 @@
 # Evolution of stringency & covid-19 metrics over time and country (East vs West Europe)
 
-# Western Europe countries
+## Western Europe countries
 ---
 ![graph1](we_stringency_index.png) 
 ![graph2](we_ma7new_tests_per_thousand.png)
