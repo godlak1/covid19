@@ -1,6 +1,6 @@
-# Evolution of mobility by places over time and country (East vs West Europe)
+## Evolution of mobility by places over time and country (East vs West Europe)
 
-## Eastern Europe countries
+# Eastern Europe countries
 
 ![graph1](ee_ma7grocery_pharmacy.png) 
 ![graph2](ee_ma7workplaces.png)
