@@ -11,7 +11,11 @@ My main outputs - graphics/stata analysis - can be found here:
 
 My weekly France covid-19 bulletin can be found here (en français):
 
-[France * bulletin * covid-19 ](https://chrisgodlak.github.io/covid19/FRAc19bul.html)
+[France * bulletin * covid-19](https://chrisgodlak.github.io/covid19/FRAc19bul.html)
+
+My weekly France covid-19 (regional) lockdown 3 analysis can be found here (en français):
+
+[France * covid-19 * confinement 3](https://chrisgodlak.github.io/covid19/FRAc19conf3.html)
 
 My other covid-19 analysis for France can be found here (mostly in french):
 
