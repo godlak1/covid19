@@ -13,11 +13,7 @@ My other covid-19 analysis for France can be found here (mostly in french): [cov
 
 I also have a reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-Finally, you can _interact with me / follow me_ on:
-
-- [Twitter](https://twitter.com/ChrisGodlak)
-
-- [Telegram](https://t.me/chrisgodlak)
+You can _interact with me / follow me_ on [Telegram](https://t.me/chrisgodlak)
 
 All my links: [linktree](https://linktr.ee/chris.godlak)
 
