@@ -11,11 +11,11 @@ My weekly France covid-19 bulletin can be found here (en français): [France * b
 
 My other covid-19 analysis for France can be found on my medium here (mostly in french): [covid-19 France](https://chrisgodlak.medium.com/)
 
-My **[githug blog](https://chrisgodlak.github.io/)** serves as a backup for all my posts from the links below.
+My [githug blog](https://chrisgodlak.github.io/) serves as a backup for all my posts from the links below.
 
 I also have a reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-You can _interact with me / follow me_ on [Telegram](https://t.me/chrisgodlak)
+Finally, you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/chrisgodlak)
 
 All my links: [linktree](https://linktr.ee/chris.godlak)
 
