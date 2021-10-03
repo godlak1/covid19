@@ -5,7 +5,7 @@
 
 ***
 
-+ My main outputs can be found on my substack here: [covid-19 things](https://godlak.substack.com/)
++ #### My main outputs can be found on my substack here: [covid-19 things](https://godlak.substack.com/)
 
 _don't hesitate to subscribe, it's free :)_
 
@@ -17,7 +17,7 @@ _don't hesitate to subscribe, it's free :)_
 
 ***
 
-### Archives
+#### Archives
 
 => (until 24.09.2021 - 99th post): covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://chrisgodlak.medium.com/)
 
