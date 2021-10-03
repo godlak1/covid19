@@ -19,11 +19,11 @@ All my links: [linktree](https://linktr.ee/chris.godlak)
 
 ### Archives
 
+=> (until 24.09.2021 - 99th post): covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://chrisgodlak.medium.com/)
+
 => (until 16.07.2021): weekly France covid-19 bulletin (in french / en français): [France * bulletin * covid-19](https://chrisgodlak.github.io/covid19/FRAc19bul.html)
 
-=> covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://chrisgodlak.medium.com/))
-
-=> (until 11.07.2021): [githug blog](https://chrisgodlak.github.io/) as a backup for all my posts
+=> (until 11.07.2021): backup for all my posts: [githug blog](https://chrisgodlak.github.io/) 
 
 ***
 
