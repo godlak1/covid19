@@ -11,7 +11,7 @@ _don't hesitate to subscribe, it's free :)_
 
 + My reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-+ If you want, you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/chrisgodlak)
++ If you want, you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/godlak_1)
 
 ***
 
