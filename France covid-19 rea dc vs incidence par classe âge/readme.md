@@ -5,4 +5,4 @@ Stata graphics files for French covid-19 metrics (data.gouv.fr/)
 
 Software: Stata 16.1
 
-Analysis on https://chrisgodlak.medium.com/ (in french)
+Analysis on https://godlak.medium.com/ (in french)
