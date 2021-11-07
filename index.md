@@ -1,6 +1,6 @@
 
 # Welcome to Covid19 things 
-## by chrisgodlak
+## by godlak1
 ### {a STATA monkey with P.ermanent H.ead D.amage}
 
 ***
@@ -13,17 +13,15 @@ _don't hesitate to subscribe, it's free :)_
 
 + If you want, you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/chrisgodlak)
 
-+ All my links: [linktree](https://linktr.ee/chris.godlak)
-
 ***
 
 #### Archives
 
-=> (until 24.09.2021 - 99th post): covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://chrisgodlak.medium.com/)
+=> (until 24.09.2021 - 99th post): covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://godlak.medium.com/)
 
-=> (until 16.07.2021): weekly France covid-19 bulletin (in french / en français): [France * bulletin * covid-19](https://chrisgodlak.github.io/covid19/FRAc19bul.html)
+=> (until 16.07.2021): weekly France covid-19 bulletin (in french / en français): [France * bulletin * covid-19](https://godlak1.github.io/covid19/FRAc19bul.html)
 
-=> (until 11.07.2021): backup for all my posts: [githug blog](https://chrisgodlak.github.io/) 
+=> (until 11.07.2021): backup for all my posts: [githug blog](https://godlak1.github.io/) 
 
 ***
 
