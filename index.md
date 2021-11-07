@@ -21,8 +21,6 @@ _don't hesitate to subscribe, it's free :)_
 
 => (until 16.07.2021): weekly France covid-19 bulletin (in french / en français): [France * bulletin * covid-19](https://godlak1.github.io/covid19/FRAc19bul.html)
 
-=> (until 11.07.2021): backup for all my posts: [githug blog](https://godlak1.github.io/) 
-
 ***
 
 ![Image](https://raw.githubusercontent.com/chrisgodlak/covid19/main/images/statacat.png)
