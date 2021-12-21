@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>France covid-19</title>
+</head>
+  <body>
+
+<h1><span style="font-family:Courier New,Courier,monospace"><strong>France covid-19</strong></span></h1>
+
+<p><span style="font-family:Courier New,Courier,monospace"><strong>(màj chaque vendredi)</strong></span></p>
+
+<p><span style="font-family:Arial,Helvetica,sans-serif"><a href="https://github.com/godlak1/covid19/tree/gh-pages/france" target="_blank">Tous les graphiques sur GitHub</a></span></p>
+
+<hr />
+<h2><strong><span style="font-family:Courier New,Courier,monospace">Graphique d'ensemble</span></strong></h2>
+
+<p><img src="france\vaxpcrhospreadc.png" style="width:1000px" /></p>
+
+<hr />
+<h2><strong><span style="font-family:Courier New,Courier,monospace">Evolution 'tests' et 'cas' : 2021 vs 2020</span></strong></h2>
+
+<p><img src="france\pcr20-21.png" style="width:1000px" /></p>
+
+<hr />
+<h2><strong><span style="font-family:Courier New,Courier,monospace">Evolution 'tests' et 'cas' par classe d'âge</span></strong></h2>
+
+<p><img src="france\propagepcr.png" style="width:500px" /> <img src="france\pcrtincidage.png" style="width:500px" /></p>
+
+<hr />
+<h2><strong><span style="font-family:Courier New,Courier,monospace">Evolution données hospitalières : 2021 vs 2020</span></strong></h2>
+
+<p><img src="france\hrdr20-21.png" style="width:1000px" /></p>
+
+<hr />
+<h2><strong><span style="font-family:Courier New,Courier,monospace">Evolution mortalité totale 2018 à 2021</span></strong></h2>
+
+<p><img src="france\dctot18-21.png" style="width:1000px" /></p>
+
+<p><img src="france\dcl_nb.png" style="width:1000px" /></p>
+
+<p><img src="france\dcl_magedc.png" style="width:500px" /> <img src="france\dcl_medagedc.png" style="width:500px" /></p>
+
+<p><img src="france\dcl_parage.png" style="width:1000px" /></p>
+
+<p><img src="france\dcl_paragelieu.png" style="width:1000px" /></p>
+
+<p><img src="france\dcl_paragereg.png" style="width:1000px" /></p>
+
+<hr />
+<p><a href="https://godlak1.github.io/covid19/" target="_blank"> <img  src="https://raw.githubusercontent.com/godlak1/covid19/main/images/statacat.png" width="90" height="70"></a></p>
+  </body>
+</html>
