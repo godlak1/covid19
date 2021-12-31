@@ -7,19 +7,21 @@
 
 + #### My main outputs can be found on my substack here: [covid-19 things](https://godlak.substack.com/)
 
-_don't hesitate to subscribe, it's free :)_
-
 + My weekly covid-19 Europe country level graphics can be found here: [Europe covid-19](https://godlak1.github.io/covid19/c19europe.html)
+
++ #### My main outputs for France can be found on my medium here (in french): [covid-19 France](https://godlak.medium.com/)
+
++ My weekly covid-19 France graphics can be found here (in french): [France covid-19](https://godlak1.github.io/covid19/france_c19.html)
+
+***
 
 + My reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
-+ If you want, you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/godlak_1)
++ you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/godlak_1)
 
 ***
 
 #### Archives
-
-=> (until 24.09.2021 - 99th post): covid-19 analysis for France my medium (mostly in french): [covid-19 France](https://godlak.medium.com/)
 
 => (until 16.07.2021): weekly France covid-19 bulletin (in french / en français): [France * bulletin * covid-19](https://godlak1.github.io/covid19/FRAc19bul.html)
 
