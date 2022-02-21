@@ -7,11 +7,11 @@
 
 + #### My main outputs can be found on my substack here: [covid-19 things](https://godlak.substack.com/)
 
-+ My weekly covid-19 Europe country level graphics can be found here: [Europe covid-19](https://godlak1.github.io/covid19/c19europe.html)
++ Weekly covid-19 Europe country level graphics: [Europe covid-19](https://godlak1.github.io/covid19/c19europe.html)
 
 + #### My main outputs for France can be found on my medium here (in french): [covid-19 France](https://godlak.medium.com/)
 
-+ My weekly covid-19 France graphics can be found here (in french): [France covid-19](https://godlak1.github.io/covid19/france_c19.html)
++ Weekly covid-19 France graphics (in french): [France covid-19](https://godlak1.github.io/covid19/france_c19.html)
 
 ***
 
