@@ -5,19 +5,19 @@
 
 ***
 
-+ #### My main outputs can be found on my substack here: [covid-19 things](https://godlak.substack.com/)
++ #### Main outputs can be found on my substack: [covid-19 things](https://godlak.substack.com/)
 
 + Weekly covid-19 Europe country level graphics: [Europe covid-19](https://godlak1.github.io/covid19/c19europe.html)
 
-+ #### My main outputs for France can be found on my medium here (in french): [covid-19 France](https://godlak.medium.com/)
++ #### Main outputs for France can be found on my medium (in french): [covid-19 France](https://godlak.medium.com/)
 
 + Weekly covid-19 France graphics (in french): [France covid-19](https://godlak1.github.io/covid19/france_c19.html)
 
 ***
 
-+ My reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
++ you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and/or [Telegram](https://t.me/godlak_1)
 
-+ you can _interact with me / follow me_ on [Twitter](https://twitter.com/godlak_1) and [Telegram](https://t.me/godlak_1)
++ My reddit sub.: [r/covid19_things](https://www.reddit.com/r/Covid19_things/)
 
 ***
 
