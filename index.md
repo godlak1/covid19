@@ -1,7 +1,6 @@
 
 # Welcome to Covid19 things 
 ## by godlak1
-### {a STATA monkey with P.ermanent H.ead D.amage}
 
 ***
 
